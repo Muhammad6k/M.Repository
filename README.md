@@ -3,7 +3,7 @@
 
 **AUTHOR**muhammad.k
 **DATE:**5sep
-**link**https//github.com/Muhammad6k/M.Repository
+**link** https//github.com/Muhammad6k/M.Repository
 ## 1. overview
 outlying the gaming sales for the year 2026
 ## 2. objectives
